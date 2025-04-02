@@ -38,7 +38,7 @@ Me chamo Henrique Zimmer Warren, tenho 18 anos e sou natural do Rio Grande do Su
             title="Me Mande Mensagem no Gmail" 
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"    
         />
-    <a href="www.linkedin.com/in/henrique-zimmer-910460348">
+    <a href="www.linkedin.com/in/henriquezimmerwarren">
         <img 
             alt="Linkedin" 
             title="Me Conheça no Linkedin" 
